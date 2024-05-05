@@ -1,9 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+
+.start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
 .start h1{
-    font-size: 3.5em;
+    font-size: 8em;
+
 
 }
 
 .start p{
     margin-bottom: 2em;
     color: #ecfa00;
+}
+
+
+.container{
+    display: flex;
+}
+
+.click{
+    max-width: 230px;
+}
+
+.myTitle{
+    font-size: 1.3em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.title2 {
+    color: #011650;
+    text-shadow: 0 0 10px #ecfa00, 0 0 10px #ecfa00; 
 }

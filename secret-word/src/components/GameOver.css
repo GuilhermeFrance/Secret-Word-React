@@ -1,0 +1,11 @@
+h2  span{
+    color: #ECFA00;
+    font-size: 1.3em;
+}
+
+.gameOver{
+    display: flex;
+    font-size: 1.5em;
+    flex-direction: column;
+    gap: 20px;
+}
