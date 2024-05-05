@@ -4,4 +4,4 @@ A proposta do jogo como a "forca", o intuito é acertar a palavra oculta, letra 
 
 ## Link
 
-[SecretWord]https://secret-word-react-steel.vercel.app/
+[SecretWord](https://secret-word-react-steel.vercel.app/)
